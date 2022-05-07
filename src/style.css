@@ -167,6 +167,10 @@ h2 {
     background-color: rgb(149, 97, 216);
 }
 footer {
+    position: absolute;
+    z-index: 1;
+    left: 0;
+    right: 0;
     padding: 1em 0;
     text-align: center;
     color: white;
